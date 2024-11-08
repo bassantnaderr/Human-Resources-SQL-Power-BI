@@ -1,19 +1,15 @@
-# Human-Resources-Project
-This project involves cleaning and analyzing HR employee data using SQL. It includes standardizing date formats, adding age, and conducting various analyses such as gender, race, and age distribution, turnover rates, job title breakdown, and location-based insights. The goal is to derive meaningful workforce metrics.
 # Project Overview
 
-This project focuses on cleaning and analyzing a Human Resources (HR) dataset using SQL. The dataset includes employee details, employment dates, and termination data. The goal is to standardize the data, conduct various analyses, and extract key insights into employee demographics, turnover, and other HR metrics.
-
-# SQL Workflow Summary
+This project focuses on cleaning, analyzing, and visualizing a Human Resources (HR) dataset using SQL and Power BI. The dataset includes employee details, employment dates, and termination data. The goal is to standardize the data, conduct various analyses, and create visualizations to extract key insights into employee demographics, turnover, and other HR metrics.
 
 # Dataset Structure
 
 The dataset include the following columns:
 
-- `emp_id`: Unique identifier for employees.
-- `birthdate`, `hire_date`, `termdate`: Relevant dates in `DATE` format.
-- `gender`, `race`, `location`, `jobtitle`, `department`: Employee demographic and job details.
-- `location_state`: The state or region of the employee's location.
+- `emp_id`
+- `birthdate`, `hire_date`, `termdate`
+- `gender`, `race`, `location`, `jobtitle`, `department`
+- `location_state`
 # Tools Used
 
 - **SQL**
