@@ -75,6 +75,10 @@ In addition to SQL analysis, data from the HR dataset was visualized using Power
 - **Location Trends**: Ohio has the highest concentration of employees, with a greater percentage working in headquarters compared to remote locations.
 - **Tenure Distribution**: The average tenure of employees is approximately 8 years.
 
+# limitations
+
+- **Assumptions on Termination Dates:** For employees with no termination date, we assumed they were still employed, which might not always be true.
+- **Data Scope:** The dataset only provides high-level information about employees, such as their job titles and demographics, and lacks finer details like performance data or employee satisfaction metrics.
 
 
 
