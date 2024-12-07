@@ -54,9 +54,9 @@ The dataset is analyzed using several queries to derive insights:
 - **What is the tenure distribution for each department?**
   
 # Power BI Visualizations
-
+![HR Employee Distribution](HR-Employee-Distribution.PNG)
+![HR Employee Distribution](HR-Employee-Distribution2.PNG)
 In addition to SQL analysis, data from the HR dataset was visualized using Power BI. The visualizations include:
-
 - **Employee Demographics**
 - **Age and Gender Distribution**
 - **Length of Employment**
